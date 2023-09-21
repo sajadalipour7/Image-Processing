@@ -1,2 +1,2 @@
 # Image-Processing
-A repo
+A repo for some image processing projects
